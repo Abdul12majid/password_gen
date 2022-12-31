@@ -4,7 +4,7 @@ import random
 
 digits = list(string.digits)
 alphabets = list(string.ascii_letters)
-spec_char = list("@#$&*%+£")
+spec_char = list("@#$&*%+£!")
 character = list(digits + alphabets + spec_char)
 
 def psswrd():
